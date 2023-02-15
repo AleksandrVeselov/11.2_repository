@@ -1,6 +1,6 @@
 def str_func(string):
-    """возвращает строку в верхнем регистре"""
-    return string.upper()
+    """возвращает строку в нижнем регистре"""
+    return string.lower()
 
 
 def str_func2(string):
